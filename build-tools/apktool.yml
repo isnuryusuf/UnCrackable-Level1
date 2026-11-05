@@ -1,0 +1,4 @@
+apktool:
+  package:
+    name: UnCrackable
+    id: com.example.app
